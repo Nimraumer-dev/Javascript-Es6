@@ -184,11 +184,3 @@ if (products[productName] === undefined) {
           "\nFinal Bill: " + finalBill);
 }
 
-
-//Questionn no: 1
-//Questionn no: 1
-//Questionn no: 1
-//Questionn no: 1
-//Questionn no: 1
-//Questionn no: 1
-//Questionn no: 1
